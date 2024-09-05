@@ -1,0 +1,14 @@
+{
+  "name": "esbuild-namespace-treeshaking",
+  "version": "1.0.0",
+  "main": "dist.js",
+  "scripts": {
+    "build": "esbuild ./src/index.mjs --bundle --outfile=dist.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "esbuild": "^0.23.1"
+  }
+}
