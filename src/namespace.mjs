@@ -1,5 +1,5 @@
 import { fn } from "./fn.mjs";
-export { tagged } from "./tagged-template-literal.mjs"; // doesnt treeshake
+export { tagged } from "./tagged-template-literal.mjs";
 
 export { a } from "./a.mjs";
 export { b } from "./b.mjs";
